@@ -1,3 +1,6 @@
+Die (nicht interaktive) HTML Version ist unter folgendem Link abrufbar:
+https://litchio.github.io/logistic-map-bifurcation/
+
 Das Jupyter Notebook Bifurkation der Logistischen Gleichung.ipynb beinhaltet:
 
   -Eine Beschreibung zum Aufbau und Nutzen der Logistischen Gleichung
